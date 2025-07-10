@@ -1,10 +1,10 @@
 # Emi-test
 
-Servicio web para la administración, autorización y administración de los usuarios del sistema.
+Servicio web para la administración, autorización y gestión de los usuarios del sistema.
 
 ## 🚀 Tecnologías utilizadas
 
-- Backend: .NET Core
+- Backend: .NET Core  
 - Base de datos: In-Memory
 
 ## ⚙️ Instalación y ejecución
@@ -13,55 +13,60 @@ Servicio web para la administración, autorización y administración de los usu
 
 ```bash
 git clone git@github.com:ManuFreelanceProjects/emi-test.git
+```
 
-2. Entra al directorio
+2. Entra al directorio:
+
+```bash
 cd emi-test
+```
 
-3. Compila la solución
+3. Compila la solución:
+
+```bash
 dotnet build
+```
 
-4. Corre la solución
+4. Corre la solución:
+
+```bash
 dotnet run
+```
 
-## ⚙️ **Prueba desde Swagger**
+## 🔍 **Prueba desde Swagger**
+
 Una vez se encuentre la interfaz Swagger abierta sigue estos pasos:
 
-1. Debes crear un usuario ejecutando: /apli/Auth/register
+1. Crea un usuario ejecutando: `/apli/Auth/register`  
+2. Autentícate con el usuario creado ejecutando: `/apli/Auth/login`  
+3. Copia el token retornado en la respuesta.  
+4. Presiona el botón **Authorize**. Pega el token copiado en el campo como se muestra a continuación:
 
-2. Autenticate con el usuario creado ejecutando: /apli/Auth/login
+   ```
+   Bearer {token_copiado}
+   ```
 
-2.1. Copia el Token retornado en la respuesta
+5. Ahora puedes probar cualquier servicio que desees desde Swagger.
 
-3. Debes presionar el botón Authorize y dentro encontraras un campo donde debes pegar el Token copiado, Ej:
+## 📌 **Notas**
 
-   Bearer: {token_copiado}
-
-4. Puedes probar cualquier servicio que desees.
-
-
-## ⚙️ **Notas**:
 1. Descripción de cómo implementar autenticación y autorización en la API:
 
-1.1. Para ello podemos usar JWT (Json Web Token) para autenticación sin estado y basada en Roles.
+   1.1. Usamos JWT (Json Web Token) para autenticación sin estado y basada en roles.  
+   1.2. Agrega autenticación con JWT:
 
-1.2. Agregar autenticación con JWT.
+   ```bash
+   dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+   dotnet add package Microsoft.IdentityModel.Tokens
+   ```
 
-     Instalar los paquetes requeridos:
+   1.3. Configura la autenticación en `Program.cs`.  
+   1.4. Agrega la configuración JWT en `appSettings.json`.  
+   1.5. Crea un servicio que resuelva el JWT token.  
+   1.6. Usa el atributo `[Authorize]` para proteger las rutas.  
+   1.7. Crea un controlador que reciba usuario y contraseña y retorne el JWT.  
+   1.8. Prueba las rutas protegidas con el token generado.
 
-     dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
-     dotnet add package Microsoft.IdentityModel.Tokens
+## 🗂️ **DataBase Schema**
 
-1.3. Actualizar el archivo Program.cs para configurar autenticación JWT.
-
-1.4. Agregamos nuestra configuración sobre JWT en el archivo appSettings.json
-
-1.5. Creamos una clase service que se va a encargar de resolver nuestro JWT token.
-
-1.6. Utilizamos el [Authorize] atributo para proteger nuestras rutas.
-
-1.7. Creamos una controladora que se va a encargar de resolver el usuario y contraseña para obtener el JWT token.
-
-1.8. Probamos las rutas con el token generado.
-
-## ⚙️ **DataBase Schema**: Nombre del archivo **Schema.sql** hospedado en el repositorio 
-
+El archivo **`Schema.sql`** se encuentran las estructuras SQL.
