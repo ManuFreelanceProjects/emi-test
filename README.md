@@ -23,7 +23,7 @@ dotnet build
 4. Corre la solución
 dotnet run
 
-## ⚙️ Prueba desde Swagger
+## ⚙️ **Prueba desde Swagger**
 Una vez se encuentre la interfaz Swagger abierta sigue estos pasos:
 
 1. Debes crear un usuario ejecutando: /apli/Auth/register
@@ -39,7 +39,7 @@ Una vez se encuentre la interfaz Swagger abierta sigue estos pasos:
 4. Puedes probar cualquier servicio que desees.
 
 
-## ⚙️ Notas:
+## ⚙️ **Notas**:
 1. Descripción de cómo implementar autenticación y autorización en la API:
 
 1.1. Para ello podemos usar JWT (Json Web Token) para autenticación sin estado y basada en Roles.
@@ -62,4 +62,6 @@ Una vez se encuentre la interfaz Swagger abierta sigue estos pasos:
 1.7. Creamos una controladora que se va a encargar de resolver el usuario y contraseña para obtener el JWT token.
 
 1.8. Probamos las rutas con el token generado.
- 
+
+## ⚙️ **DataBase Schema**: Nombre del archivo **Schema.sql** hospedado en el repositorio 
+
