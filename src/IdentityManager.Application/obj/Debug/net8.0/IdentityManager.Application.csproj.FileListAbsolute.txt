@@ -1,0 +1,15 @@
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/bin/Debug/net8.0/IdentityManager.Application.deps.json
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/bin/Debug/net8.0/IdentityManager.Application.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/bin/Debug/net8.0/IdentityManager.Application.pdb
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/bin/Debug/net8.0/IdentityManager.Domain.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/bin/Debug/net8.0/IdentityManager.Domain.pdb
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/IdentityManager.Application.csproj.AssemblyReference.cache
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/IdentityManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/IdentityManager.Application.AssemblyInfoInputs.cache
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/IdentityManager.Application.AssemblyInfo.cs
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/IdentityManager.Application.csproj.CoreCompileInputs.cache
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/Identity.D1645DF2.Up2Date
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/IdentityManager.Application.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/refint/IdentityManager.Application.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/IdentityManager.Application.pdb
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Application/obj/Debug/net8.0/ref/IdentityManager.Application.dll

@@ -1,0 +1,17 @@
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/bin/Debug/net8.0/IdentityManager.Infrastructure.deps.json
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/bin/Debug/net8.0/IdentityManager.Infrastructure.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/bin/Debug/net8.0/IdentityManager.Infrastructure.pdb
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/bin/Debug/net8.0/IdentityManager.Application.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/bin/Debug/net8.0/IdentityManager.Domain.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/bin/Debug/net8.0/IdentityManager.Domain.pdb
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/bin/Debug/net8.0/IdentityManager.Application.pdb
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/IdentityManager.Infrastructure.csproj.AssemblyReference.cache
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/IdentityManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/IdentityManager.Infrastructure.AssemblyInfoInputs.cache
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/IdentityManager.Infrastructure.AssemblyInfo.cs
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/IdentityManager.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/Identity.7D41F740.Up2Date
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/IdentityManager.Infrastructure.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/refint/IdentityManager.Infrastructure.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/IdentityManager.Infrastructure.pdb
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Infrastructure/obj/Debug/net8.0/ref/IdentityManager.Infrastructure.dll

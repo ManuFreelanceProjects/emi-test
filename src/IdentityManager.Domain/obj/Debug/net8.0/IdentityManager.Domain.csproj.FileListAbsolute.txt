@@ -1,0 +1,11 @@
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/bin/Debug/net8.0/IdentityManager.Domain.deps.json
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/bin/Debug/net8.0/IdentityManager.Domain.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/bin/Debug/net8.0/IdentityManager.Domain.pdb
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/obj/Debug/net8.0/IdentityManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/obj/Debug/net8.0/IdentityManager.Domain.AssemblyInfoInputs.cache
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/obj/Debug/net8.0/IdentityManager.Domain.AssemblyInfo.cs
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/obj/Debug/net8.0/IdentityManager.Domain.csproj.CoreCompileInputs.cache
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/obj/Debug/net8.0/IdentityManager.Domain.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/obj/Debug/net8.0/refint/IdentityManager.Domain.dll
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/obj/Debug/net8.0/IdentityManager.Domain.pdb
+/Users/manuelsmac/Projects/Emi/IdentityManager/src/IdentityManager.Domain/obj/Debug/net8.0/ref/IdentityManager.Domain.dll
